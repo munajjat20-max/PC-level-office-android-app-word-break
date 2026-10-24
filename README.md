@@ -1,6 +1,6 @@
-# Word Break
+# Doc Break
 
-**Word Break** is a powerful, PC-level office application designed specifically for Android phones and tablets. It brings advanced desktop-grade document processing, custom equation rendering, and multi-format support right to your mobile device.
+**Doc Break** is a powerful, PC-level office application designed specifically for Android phones and tablets. It brings advanced desktop-grade document processing, custom equation rendering, and multi-format support right to your mobile device.
 
 ---
 
